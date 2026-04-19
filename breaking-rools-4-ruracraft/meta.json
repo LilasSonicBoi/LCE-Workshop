@@ -10,7 +10,7 @@
   ],
   "thumbnail": "Breaking Rools Thumbnail.png",
   "zips": {
-    "Breaking Rools - LCE.zip": "{DLCDir}Game/Windows64Media/DLC"
+    "Breaking Rools - LCE.zip": "{DLCDir}"
   },
   "version": "1.0.0"
 }
